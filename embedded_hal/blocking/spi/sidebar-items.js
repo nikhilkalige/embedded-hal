@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["transfer","Transfers words to the slave, returns the words received from the slave"]],"trait":[["FullDuplex","Blocking full duplex"]]});
